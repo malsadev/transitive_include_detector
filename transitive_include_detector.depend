@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1720404429 source:/home/mustafa/Documents/dev1/transitive_include_detector/detect_transitive_include_test.cpp
+
+1720404437 source:/home/mustafa/Documents/dev1/transitive_include_detector/regex_example.cpp
+
+1720838385 source:/home/mustafa/Documents/dev1/transitive_include_detector/input_parser.h
+	<string>
+	<vector>
+	<algorithm>
+
+1721172465 source:/home/mustafa/Documents/dev1/transitive_include_detector/test.cpp
+
+1722576646 source:/home/mustafa/Documents/dev1/transitive_include_detector/detect_transitive_include.cpp
+	"clang-c/Index.h"
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<unordered_set>
+
+1722382100 source:/home/mustafa/Documents/dev1/transitive_include_detector/test_headers.cpp
+	<clang-c/Index.h>
+	<iostream>
+
