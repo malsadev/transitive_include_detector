@@ -29,3 +29,47 @@
 	<string>
 	<unordered_set>
 
+1722802323 source:/home/mustafa/Documents/dev1/transitive_include_detector/src/detect_transitive_include.cpp
+	"clang-c/Index.h"
+	"include/index_helpers.h"
+	"include/argparse.hpp"
+	<unordered_map>
+	<vector>
+	<string>
+	<unistd.h>
+
+1722664475 /home/mustafa/Documents/dev1/transitive_include_detector/src/include/index_helpers.h
+	"clang-c/Index.h"
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<unordered_set>
+
+1722799827 /home/mustafa/Documents/dev1/transitive_include_detector/src/include/argparse.hpp
+	<cerrno>
+	<algorithm>
+	<any>
+	<array>
+	<set>
+	<charconv>
+	<cstdlib>
+	<functional>
+	<iomanip>
+	<iostream>
+	<iterator>
+	<limits>
+	<list>
+	<map>
+	<numeric>
+	<optional>
+	<sstream>
+	<stdexcept>
+	<string>
+	<string_view>
+	<tuple>
+	<type_traits>
+	<utility>
+	<variant>
+	<vector>
+
