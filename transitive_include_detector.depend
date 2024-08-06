@@ -73,3 +73,28 @@
 	<variant>
 	<vector>
 
+1722904386 source:/home/mustafa/Documents/dev1/transitive_include_detector/src/indexer.cpp
+	"indexer.h"
+	"clang-c/Index.h"
+	<string_view>
+	<unordered_map>
+	<vector>
+	<string>
+	<iostream>
+
+1722902302 source:/home/mustafa/Documents/dev1/transitive_include_detector/src/main.cpp
+	"clang-c/Index.h"
+	"include/indexer.h"
+	"include/index_helpers.h"
+	"include/argparse.hpp"
+	<unordered_map>
+	<vector>
+	<string>
+	<unistd.h>
+
+1722904406 /home/mustafa/Documents/dev1/transitive_include_detector/src/include/indexer.h
+	"clang-c/Index.h"
+	<string_view>
+	<unordered_map>
+	<vector>
+
